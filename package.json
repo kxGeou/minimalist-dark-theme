@@ -47,6 +47,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "theme-icon.png",
   "contributes": {
     "themes": [
       {
