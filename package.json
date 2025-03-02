@@ -1,0 +1,22 @@
+{
+  "name": "minimalist-dark-theme",
+  "displayName": "Minimalist Dark theme",
+  "description": "Minimal dark theme with synergy color pallete",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Minimalist Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimalist Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
