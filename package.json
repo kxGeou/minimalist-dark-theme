@@ -6,7 +6,44 @@
   "engines": {
     "vscode": "^1.97.0"
   },
-  
+  "publisher": "kxGeou",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kxGeou/minimalist-dark-theme.git"
+  }, 
+  "keywords": [
+    "theme",
+    "dark theme",
+    "minimalist",
+    "gray",
+    "dark gray",
+    "modern",
+    "clean",
+    "subtle",
+    "cool",
+    "vscode-theme",
+    "developer",
+    "UI-friendly",
+    "syntax-highlighting",
+    "minimal",
+    "minimalist theme",
+    "minimal theme",
+    "dark",
+    "violet dark",
+    "violet",
+    "violet theme",
+    "violet dark theme",
+    "monochrome",
+    "midnight",
+    "storm",
+    "elegant",
+    "shadow",
+    "contrast",
+    "aesthetic",
+    "calm",
+    "dracula-inspired",
+    "nordic-theme"
+  ],
   "categories": [
     "Themes"
   ],

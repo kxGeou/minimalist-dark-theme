@@ -1,16 +1,18 @@
-# minimalist-dark-theme README
+# 🌙 Minimal Dark Theme - VS Code Theme
 
-## Working with Markdown
+A minimalist, elegant, and modern theme for Visual Studio Code. Featuring muted shades of gray with subtle purple accents for a comfortable and aesthetic coding experience.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## 🔥 Features
+- 🖤 Dark, neutral color palette (deep grays)
+- 💜 Subtle purple accents for better readability
+- 🎯 Minimalist design – fewer distractions, more focus
+- 🌙 Ideal for nighttime work and long coding sessions
+- 🚀 High syntax readability across various programming languages
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
+## 📢 Feedback
+Have suggestions or found a bug? DM me on my instagram account !
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+---
+💡 **Author:** kxGeou
+📌 **Repository:** https://github.com/kxGeou/minimalist-dark-theme.git
