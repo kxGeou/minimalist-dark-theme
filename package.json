@@ -2,7 +2,7 @@
   "name": "minimalist-dark-theme",
   "displayName": "Minimalist Dark theme",
   "description": "Minimal dark theme with synergy color pallete",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.97.0"
   },
